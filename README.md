@@ -1,5 +1,12 @@
 # buzhidaolvtu.github.io
 
+## think
+[代码问道 todo]
+[抽象的理解 todo]
+[方法论 todo]
+
+## books
+
 ## open source
 ### 成品
 - [sandbox-boot-agent](https://github.com/buzhidaolvtu/sandbox-boot-agent)
