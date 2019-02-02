@@ -1,25 +1,36 @@
 # buzhidaolvtu.github.io
 
-## think
-[代码问道 todo]
-[抽象的理解 todo]
-[方法论 todo]
+归纳与演绎
 
-## books
+## summary
+[知识与技能矩阵]todo
+
+## think
+[代码问道]todo
+[抽象的理解]todo
+[方法论]todo
+
+## 曾经较深入看过或研究过的源码
+mina nio
+netty nio
+tomcat connector nio
+mybatis
+spring
+KSQL
+kafka
+
+## 了解过的数据结构和算法
+sort
+tree
+
+## 看过的书
 
 ## open source
-### 工具
-- [sandbox-boot-agent：maven plugin,把阿里开源的sandbox打包成jar包启动](https://github.com/buzhidaolvtu/sandbox-boot-agent)
 - [sql-to-java:把mysql create syntax翻译成insert into语句，供mybatis使用](https://github.com/buzhidaolvtu/sql-to-java)
-
-### 最新
+- [sandbox-boot-agent：maven plugin,把阿里开源的sandbox打包成jar包启动](https://github.com/buzhidaolvtu/sandbox-boot-agent)
 - [kafka stream 仅仅为了探究KSQL语法是怎样翻译成KSQL stream的](https://github.com/buzhidaolvtu/kstream-learn)
-
-### idea
 - [ALS 应用层安全](https://github.com/buzhidaolvtu/ALS.git)
 - [util4j developing](https://github.com/buzhidaolvtu/util4j.git)
-
-### 学习
 - [java-callgraph：静态分析字节码，寻找调用关系，developing...](https://github.com/buzhidaolvtu/java-callgraph.git)
 - [log-analysis](https://github.com/buzhidaolvtu/log-analysis.git)
 - [java-tech-demo sqlparser应用](https://github.com/buzhidaolvtu/java-tech-demo.git)
