@@ -7,13 +7,13 @@
 讨论
 
 ## 思考
-[代码理解]todo 
-language
-[抽象的理解]todo  
-抽象
-[方法论]todo  
-方法
-[思考]todo  
+[代码理解]todo   
+language  
+[抽象的理解]todo    
+抽象  
+[方法论]todo    
+方法  
+[思考]todo    
 ```text
 给事物下一个清晰地定义真的是非常困难的，因为必须存在让所有人都理解的原子概念（可能并不是真的原子，但是各个概念却是不相重合的），
 但是世界这么大，把这些原子概念都找到就很困难，可是新奇的事物总是经常出现，会出现原子概念不足以表达现实的局面。
@@ -78,7 +78,7 @@ Mybatis源码解析(四)之Mapper的执行过程:https://www.processon.com/view/
 Mybatis源码解析(五)之SqlSource的分析:https://www.processon.com/view/link/5c79144de4b00bcc4f76974c  
 Mybatis源码解析(六)之LanguageDriver的分析:https://www.processon.com/view/link/5c5e4f40e4b0fa03ceaed599  
 
-## open source
+## open source,平常研究用
 - [sql-to-java:把mysql create syntax翻译成insert into语句，供mybatis使用](https://github.com/buzhidaolvtu/sql-to-java)
 - [sandbox-boot-agent：maven plugin,把阿里开源的sandbox打包成jar包启动](https://github.com/buzhidaolvtu/sandbox-boot-agent)
 - [kafka stream 仅仅为了探究KSQL语法是怎样翻译成KSQL stream的](https://github.com/buzhidaolvtu/kstream-learn)
