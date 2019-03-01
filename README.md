@@ -4,19 +4,15 @@
 [知识与技能矩阵]todo
 
 ## 计划
-```text
-专攻专注地做一个项目。
-人员规模（8人）：
-优秀产品1人，
-H5 2人
-后端开发 3人，
-测试 2人；
-```
+讨论
 
 ## 思考
 [代码理解]todo 
+language
 [抽象的理解]todo  
+抽象
 [方法论]todo  
+方法
 [思考]todo  
 ```text
 给事物下一个清晰地定义真的是非常困难的，因为必须存在让所有人都理解的原子概念（可能并不是真的原子，但是各个概念却是不相重合的），
@@ -74,7 +70,13 @@ kafka
 sort  
 tree
 
-## 看过的书
+## 分析，仅以mybatis为例
+Mybatis源码解析(一)之类结构图分析:https://www.processon.com/view/link/5c5a48b7e4b0641c83f11bd6  
+Mybatis源码解析(二)之Configuration的addMapper方法:https://www.processon.com/view/link/5c5a4d02e4b0fa03ceae6148  
+Mybatis源码解析(三)之Configuration的getMapper方法:https://www.processon.com/view/link/5c5a5d07e4b03334b51776e2  
+Mybatis源码解析(四)之Mapper的执行过程:https://www.processon.com/view/link/5c5a60cae4b025fe7c926004  
+Mybatis源码解析(五)之SqlSource的分析:https://www.processon.com/view/link/5c79144de4b00bcc4f76974c  
+Mybatis源码解析(六)之LanguageDriver的分析:https://www.processon.com/view/link/5c5e4f40e4b0fa03ceaed599  
 
 ## open source
 - [sql-to-java:把mysql create syntax翻译成insert into语句，供mybatis使用](https://github.com/buzhidaolvtu/sql-to-java)
