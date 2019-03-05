@@ -1,7 +1,6 @@
 # buzhidaolvtu.github.io
 
 # 工作中遇到的问题的分析
-- [kafka消费者不消费问题的思考](http://note.youdao.com/noteshare?id=48c77df70e1ed8ade5d283ed361b206e)
 - [kafka rebalance调查-使用同一个group订阅不同的topic之间的影响](http://note.youdao.com/noteshare?id=690c7de7ae9f5e71e4b5423f41e5e75e)
 - [Mybatis源码解析(一)之类结构图分析](https://www.processon.com/view/link/5c5a48b7e4b0641c83f11bd6)  
 - [Mybatis源码解析(二)之Configuration的addMapper方法](https://www.processon.com/view/link/5c5a4d02e4b0fa03ceae6148)  
@@ -11,15 +10,21 @@
 - [Mybatis源码解析(六)之LanguageDriver的分析](https://www.processon.com/view/link/5c5e4f40e4b0fa03ceaed599)  
 - [微信支付和支付宝支付的设计（反思通用审批）](http://note.youdao.com/noteshare?id=de9f8088981a58d6e966679d1a94922a)
 - [spark执行计划分析](http://note.youdao.com/noteshare?id=2c073afff2c60e5cf4db2aa6ce8be583)
+- [kafka消费者不消费问题的思考](http://note.youdao.com/noteshare?id=48c77df70e1ed8ade5d283ed361b206e)
+- [linux命令记录](http://note.youdao.com/noteshare?id=508e319d5bc0d8c9b29c4fb70876e86d)
+- [jvm调优 CMS](http://note.youdao.com/noteshare?id=7f041a4c3761accb82312e9ee3c92252)
+- [并发理解](http://note.youdao.com/noteshare?id=321e91f35d63c8250f70efc1d2eb2d39)
+- [java stream](http://note.youdao.com/noteshare?id=95374251c45847f006c0eff406883c88)
+- [快速排序（仅限于理解）](http://note.youdao.com/noteshare?id=4d857987aa2ff325cbd539fb5b1dad00)
 
 ## 曾经较深入看过或研究过的项目源码
-mina nio  
-netty nio  
-tomcat connector nio  
-mybatis  
-spring  
-KSQL  
-kafka  
+- mina nio  
+- netty nio  
+- tomcat connector nio  
+- mybatis  
+- spring  
+- [KSQL](http://note.youdao.com/noteshare?id=7acbadbb0f0a42af6f5a67b18b74ea5a)  
+- kafka  
 
 ## 了解过的数据结构和算法
 sort  
