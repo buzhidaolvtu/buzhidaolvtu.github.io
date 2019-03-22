@@ -26,6 +26,7 @@
 - [java stream](http://note.youdao.com/noteshare?id=95374251c45847f006c0eff406883c88)
 - [快速排序（仅限于理解）](http://note.youdao.com/noteshare?id=4d857987aa2ff325cbd539fb5b1dad00)
 - [堆排序总结](http://note.youdao.com/noteshare?id=e27b083fd3043a918ca656663fbc27d3)
+- [深入理解java stream初版](http://note.youdao.com/noteshare?id=4cd2e548f37ffe32e14c648b26b9d197)
 
 ## 曾经较深入看过或研究过的项目源码
 - mina nio  
