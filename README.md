@@ -9,7 +9,7 @@
 4.要专注，一心多用是做不好事情的；
 ```
 
-# 工作中遇到的问题的分析
+# public blog
 - [kafka rebalance调查-使用同一个group订阅不同的topic之间的影响](http://note.youdao.com/noteshare?id=690c7de7ae9f5e71e4b5423f41e5e75e)
 - [Mybatis源码解析(一)之类结构图分析](https://www.processon.com/view/link/5c5a48b7e4b0641c83f11bd6)  
 - [Mybatis源码解析(二)之Configuration的addMapper方法](https://www.processon.com/view/link/5c5a4d02e4b0fa03ceae6148)  
